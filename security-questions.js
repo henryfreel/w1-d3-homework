@@ -16,21 +16,21 @@ function askQuestions() {
 
             if (questionThree === securityQuestions[2].expectedAnswer) {
                 
-                alert("way to go");
+                alert("killin' it");
 
             } else {
 
-            	alert("Sorry, you are wrong");
+            	alert("Go home, you're drunk");
             }
 
         } else {
 
-        	alert("Sorry, you are wrong");
+        	alert("Go home, you're drunk");
         }
 
     } else {
 
-        alert("Sorry, you are wrong");
+        alert("Go home, you're drunk");
     }
 
 
